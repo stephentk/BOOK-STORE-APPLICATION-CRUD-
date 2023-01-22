@@ -1,4 +1,4 @@
-# A simple book API
+# A simple booKstore application
 
 A-simple-book-API allows you to GET books from a library database, POST a new book to the database, PUT(edit) any book in the database, and lastly DELETE
 
